@@ -1,6 +1,6 @@
 theme: jekyll-theme-time-machine
 
-description: <h1><i>If it compiles, it must work - right?</i></h1>
+description: <p style="font-size:28px"><i>If it compiles, it must work - right?</i></p>
 
 github:
   is_project_page: false
