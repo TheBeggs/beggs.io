@@ -1,6 +1,6 @@
 theme: jekyll-theme-time-machine
 
-description: If it compiles, it must work - right?
+description: # _If it compiles, it must work - right?_
 
 github:
   is_project_page: false
